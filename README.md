@@ -1,5 +1,3 @@
-# E-Comm Project 
-"# E-comm" 
-"# E-com" 
-"# E-com" 
+# E-Comm Project
 "# e-com-web" 
+
